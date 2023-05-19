@@ -8,7 +8,7 @@ st.sidebar.success("Select a page above.")
 st.title("Welcome to my Homepage")
 with st.container():
     st.subheader("Hi, I am Gio :wave:")
-    st.write("I am passionate about photography, crossfit and ultimate frisbee")
+    st.write("I am passionate about Photography, CrossFit and Ultimate Frisbee")
     st.write("##")
 
 with st.container():
